@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/team-jo-project-2/static/js/main.c6ddfcbd.js",
-    "static/js/787.e8826133.chunk.js": "/team-jo-project-2/static/js/787.e8826133.chunk.js",
-    "static/media/introImage.jpg": "/team-jo-project-2/static/media/introImage.f590c86d6b565bbd6f21.jpg",
-    "static/media/bike.gif": "/team-jo-project-2/static/media/bike.902ae1d2781bd134ffac.gif",
-    "static/media/addImageButton.svg": "/team-jo-project-2/static/media/addImageButton.972fe20cd755a52ea3af46e4b6c221f2.svg",
-    "index.html": "/team-jo-project-2/index.html",
-    "static/media/closeButton.svg": "/team-jo-project-2/static/media/closeButton.21924441ccab3a1a45fc78f07c212dfa.svg",
-    "static/media/upload.svg": "/team-jo-project-2/static/media/upload.cf4019e03be362df5471d33d8df935a1.svg",
-    "static/media/logout_icon.svg": "/team-jo-project-2/static/media/logout_icon.a6eede602c48d1c74ad404c95d68bcb8.svg",
-    "static/media/send_icon.svg": "/team-jo-project-2/static/media/send_icon.8ea1b6b23c920c300c23df209d333490.svg",
-    "static/media/back_icon.svg": "/team-jo-project-2/static/media/back_icon.1c39f672774a9d39b5a6b682825df85f.svg",
-    "main.c6ddfcbd.js.map": "/team-jo-project-2/static/js/main.c6ddfcbd.js.map",
-    "787.e8826133.chunk.js.map": "/team-jo-project-2/static/js/787.e8826133.chunk.js.map"
+    "main.js": "/static/js/main.f5ea15b9.js",
+    "static/js/787.fe279e18.chunk.js": "/static/js/787.fe279e18.chunk.js",
+    "static/media/introImage.jpg": "/static/media/introImage.f590c86d6b565bbd6f21.jpg",
+    "static/media/bike.gif": "/static/media/bike.902ae1d2781bd134ffac.gif",
+    "static/media/addImageButton.svg": "/static/media/addImageButton.972fe20cd755a52ea3af46e4b6c221f2.svg",
+    "index.html": "/index.html",
+    "static/media/closeButton.svg": "/static/media/closeButton.21924441ccab3a1a45fc78f07c212dfa.svg",
+    "static/media/upload.svg": "/static/media/upload.cf4019e03be362df5471d33d8df935a1.svg",
+    "static/media/logout_icon.svg": "/static/media/logout_icon.a6eede602c48d1c74ad404c95d68bcb8.svg",
+    "static/media/send_icon.svg": "/static/media/send_icon.8ea1b6b23c920c300c23df209d333490.svg",
+    "static/media/back_icon.svg": "/static/media/back_icon.1c39f672774a9d39b5a6b682825df85f.svg",
+    "main.f5ea15b9.js.map": "/static/js/main.f5ea15b9.js.map",
+    "787.fe279e18.chunk.js.map": "/static/js/787.fe279e18.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6ddfcbd.js"
+    "static/js/main.f5ea15b9.js"
   ]
 }
