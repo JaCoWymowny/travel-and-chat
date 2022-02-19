@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import authService from "../../services/authService.js";
 import { Container, DontHaveAccountText, Input, LoginButton } from "./style.js";
-import { Header } from "../../components/Header/index.js";
+import { Header } from "../../components/Header";
 
 function Login() {
   const [email, setEmail] = useState("");
@@ -33,15 +33,14 @@ function Login() {
           className="login__btn"
           onClick={() => {
             authService.logInWithEmailAndPassword(email, password).then(() => {
-              navigate("/team-jo-project-2/provinces");
+              navigate("/provinces");
             });
           }}
         >
           Login
         </LoginButton>
         <DontHaveAccountText>
-          Don't have an account?{" "}
-          <Link to="/team-jo-project-2/register">Register</Link> now.
+          Don't have an account? <Link to="/register">Register</Link> now.
         </DontHaveAccountText>
       </Container>
     </div>

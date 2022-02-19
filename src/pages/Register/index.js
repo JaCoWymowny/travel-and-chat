@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { Header } from "../../components/Header/index.js";
+import { Header } from "../../components/Header";
 import authService from "../../services/authService.js";
 import { Container, HaveAccountText, Input, RegisterButton } from "./style.js";
 
@@ -42,8 +42,7 @@ function Register() {
         />
         <RegisterButton onClick={register}>Register</RegisterButton>
         <HaveAccountText>
-          Already have an account?{" "}
-          <Link to="/team-jo-project-2/login">Login</Link> now.
+          Already have an account? <Link to="/login">Login</Link> now.
         </HaveAccountText>
       </Container>
     </div>

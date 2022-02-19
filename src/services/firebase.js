@@ -1,13 +1,14 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCMfnnUGYTXhdXkFZqeShFEIdOQIyPD_-c",
-  projectId: "team-jo-project2",
-  databaseURL: "https://team-jo-project2-default-rtdb.firebaseio.com/",
-  authDomain: "team-jo-project2.firebaseapp.com",
-  storageBucket: "team-jo-project2.appspot.com",
-  messagingSenderId: "234842686074",
-  appId: "1:234842686074:web:868ca8b5750c7079e631c3",
+  apiKey: "AIzaSyBiuf832P1zJN-oFiIIay2VCFcGk_yXCE4",
+  projectId: "wycieczki-b5bb8",
+  databaseURL: "https://wycieczki-b5bb8-default-rtdb.firebaseio.com/",
+  authDomain: "wycieczki-b5bb8.firebaseapp.com",
+  storageBucket: "wycieczki-b5bb8.appspot.com",
+  messagingSenderId: "681525263478",
+  appId: "1:681525263478:web:d11ea8edfc8cc29b68b357",
+  measurementId: "G-569SJQN1SJ",
 };
 
 export const app = initializeApp(firebaseConfig);
